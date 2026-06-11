@@ -39,7 +39,7 @@ LinkedIn-https://www.linkedin.com/in/rathish-t-s-52579330b/
 ## Featured Projects
 - Classroom Engagement Analyzer
 - AI Interview Analyzer
-- DSA-JAVA
+
 
 ## Goals
 - Building impactful AI applications
